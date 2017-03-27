@@ -1,0 +1,19 @@
+@media only screen and 
+
+only(限定某种设备)
+screen 是媒体类型里的一种
+and 被称为关键字，其他关键字还包括 not(排除某种设备)
+
+/* 常用类型 */
+
+类型解释：
+all 所有设备
+braille 盲文
+embossed 盲文打印
+handheld 手持设备
+print	文档打印或打印预览模式
+projection 项目演示，比如幻灯
+screen 彩色电脑屏幕
+speech 演讲
+tty 固定字母间距的网格的媒体，比如电传打字机
+tv 电视
